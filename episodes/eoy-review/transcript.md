@@ -1,24 +1,4 @@
 ---
-guest: EOY Review
-title: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
-youtube_url: https://www.youtube.com/watch?v=-PDsvl2WCZU
-video_id: -PDsvl2WCZU
-description: Adam Grenier is the former Head of Growth Marketing and Innovation at
-  Uber, where he helped build Uber’s growth infrastructure from the ground up. He
-  is also the former VP of Product and...
-duration_seconds: 4191.0
-duration: '1:09:51'
-view_count: 2975
-guest: EOY Review
-title: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
-youtube_url: https://www.youtube.com/watch?v=-PDsvl2WCZU
-video_id: -PDsvl2WCZU
-description: Adam Grenier is the former Head of Growth Marketing and Innovation at
-  Uber, where he helped build Uber’s growth infrastructure from the ground up. He
-  is also the former VP of Product and...
-duration_seconds: 4191.0
-duration: '1:09:51'
-view_count: 2975
 guest: Various (Year-End Review)
 title: Countdown of the top 10 episodes of the year
 youtube_url: https://www.youtube.com/watch?v=f4cskASqAsg
